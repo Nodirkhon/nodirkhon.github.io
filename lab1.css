@@ -1,0 +1,21 @@
+
+body{
+	padding: 100px;
+	background:  white
+	;
+}
+.container{
+	background: grey;
+}
+h1 , h3{
+	 color: blue;
+}
+p, li{
+	color: white;
+}
+a{
+	color: red;
+}
+strong{
+	color: yellow;
+}
